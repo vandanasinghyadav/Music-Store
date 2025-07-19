@@ -15,7 +15,7 @@ This project focuses on analyzing an Online Music Store database using SQL to ge
 
 🛠️ Database and Tools :
 
-SQL (Structured Query Language).
+- SQL (Structured Query Language).
 
 PostgreSQL
 
