@@ -13,31 +13,24 @@ Analyze customer behavior, top-selling tracks, and geographic trends.
 
 Support business decisions through data-driven findings.
 
-Database and Tools
+🛠️ Database and Tools :
+
 SQL (Structured Query Language)
 PostgreSQL 
 DB Browser for  PgAdmin 4
 Git & GitHub for version control and sharing
+
 📂 Database Schema
+
 The database consists of the following key tables:
-
 customers
-
 invoices
-
 invoice_items
-
 tracks
-
 albums
-
 artists
-
 genres
-
 employees
-
 playlists
-
 
 
