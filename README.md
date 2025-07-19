@@ -1,49 +1,51 @@
 # Music-Store
 📌 Project Overview :
 
-This project focuses on analyzing an Online Music Store database using SQL to generate business insights. The database contains information about customers, tracks, playlists, invoices, employees, genres, artists, and more. The goal is to answer important business questions using SQL queries and help the store understand user behavior, sales trends, and growth opportunities.
+-This project focuses on analyzing an Online Music Store database using SQL to generate business insights.
+-The database contains information about customers, tracks, playlists, invoices, employees, genres, artists, and more. 
+-The goal is to answer important business questions using SQL queries and help the store understand user behavior, sales trends, and growth opportunities.
 
 🧠 Objectives :
 
-1. Explore the structure and contents of the music store database.
+-Explore the structure and contents of the music store database.
 
-2. Write SQL queries to extract useful insights.
+- Write SQL queries to extract useful insights.
 
-3. Analyze customer behavior, top-selling tracks, and geographic trends.
+-Analyze customer behavior, top-selling tracks, and geographic trends.
 
-4. Support business decisions through data-driven findings.
+- Support business decisions through data-driven findings.
 
 🛠️ Database and Tools :
 
-- SQL (Structured Query Language).
+- SQL (Structured Query Language)
 
-PostgreSQL
+-PostgreSQL
 
-DB Browser for  PgAdmin 4
+-DB Browser for  PgAdmin 4
 
-Git & GitHub for version control and sharing
+-Git & GitHub for version control and sharing
 
 📂 Database Schema
 
 The database consists of the following key tables:
 
-customers
+-customers
 
-invoices
+-invoices
 
-invoice_items
+-invoice_items
 
-tracks
+-tracks
 
-albums
+-albums
 
-artists
+-artists
 
-genres
+-genres
 
-employees
+-employees
 
-playlists
+-playlists
 
 
 
