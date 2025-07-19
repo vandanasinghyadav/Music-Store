@@ -2,6 +2,7 @@
 📌 Project Overview :
 
 -This project focuses on analyzing an Online Music Store database using SQL to generate business insights.
+
 -The database contains information about customers, tracks, playlists, invoices, employees, genres, artists, and more. 
 -The goal is to answer important business questions using SQL queries and help the store understand user behavior, sales trends, and growth opportunities.
 
