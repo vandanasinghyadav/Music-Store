@@ -26,14 +26,24 @@ Git & GitHub for version control and sharing
 📂 Database Schema
 
 The database consists of the following key tables:
+
 customers
+
 invoices
+
 invoice_items
+
 tracks
+
 albums
+
 artists
+
 genres
+
 employees
+
 playlists
+
 
 
