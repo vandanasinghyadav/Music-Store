@@ -1,4 +1,4 @@
-# Music-Store
+# Music Store Analysis :
 📌 Project Overview :
 
 - This project focuses on analyzing an Online Music Store database using SQL to generate business insights.
