@@ -5,13 +5,13 @@ This project focuses on analyzing an Online Music Store database using SQL to ge
 
 🧠 Objectives :
 
-Explore the structure and contents of the music store database.
+1. Explore the structure and contents of the music store database.
 
-Write SQL queries to extract useful insights.
+2. Write SQL queries to extract useful insights.
 
-Analyze customer behavior, top-selling tracks, and geographic trends.
+3. Analyze customer behavior, top-selling tracks, and geographic trends.
 
-Support business decisions through data-driven findings.
+4. Support business decisions through data-driven findings.
 
 🛠️ Database and Tools :
 
