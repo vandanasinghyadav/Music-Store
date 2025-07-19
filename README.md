@@ -15,8 +15,8 @@ Support business decisions through data-driven findings.
 
 🛠️ Database and Tools :
 
-SQL (Structured Query Language)
-PostgreSQL
+SQL (Structured Query Language).
+PostgreSQL.
 DB Browser for  PgAdmin 4
 Git & GitHub for version control and sharing
 
