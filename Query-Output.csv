@@ -1,0 +1,25 @@
+billing_country,total_spending,first_name,last_name,customer_id
+Argentina,39.6,Diego                                             ,Gutiérrez                                         ,56
+Australia,81.18,Mark                                              ,Taylor                                            ,55
+Austria,69.3,Astrid                                            ,Gruber                                            ,7
+Belgium,60.39,Daan                                              ,Peeters                                           ,8
+Brazil,108.9,Luís                                              ,Gonçalves                                         ,1
+Canada,99.99,François                                          ,Tremblay                                          ,3
+Chile,97.02,Luis                                              ,Rojas                                             ,57
+Czech Republic,144.54,R                                                 ,Madhav                                            ,5
+Denmark,37.62,Kara                                              ,Nielsen                                           ,9
+Finland,79.2,Terhi                                             ,Hämäläinen                                        ,44
+France,99.99,Wyatt                                             ,Girard                                            ,42
+Germany,94.05,Fynn                                              ,Zimmermann                                        ,37
+Hungary,78.21,Ladislav                                          ,Kovács                                            ,45
+India,111.87,Manoj                                             ,Pareek                                            ,58
+Ireland,114.84,Hugh                                              ,O'Reilly                                          ,46
+Italy,50.49,Lucas                                             ,Mancini                                           ,47
+Netherlands,65.34,Johannes                                          ,Van der Berg                                      ,48
+Norway,72.27,Bjørn                                             ,Hansen                                            ,4
+Poland,76.23,Stanisław                                         ,Wójcik                                            ,49
+Portugal,102.96,João                                              ,Fernandes                                         ,34
+Spain,98.01,Enrique                                           ,Muñoz                                             ,50
+Sweden,75.24,Joakim                                            ,Johansson                                         ,51
+United Kingdom,98.01,Phil                                              ,Hughes                                            ,53
+USA,98.01,Jack                                              ,Smith                                             ,17
